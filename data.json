@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "cars": [
+    {
+      "id": 101,
+      "title": "Honda",
+      "model": "Accord",
+      "price": 150
+    },
+    {
+      "id": 102,
+      "title": "Volvo",
+      "model": "C30",
+      "price": 250
+    },
+    {
+      "id": 103,
+      "title": "Tesla",
+      "model": "Model S",
+      "price": 450
+    }
+  ]
+}
